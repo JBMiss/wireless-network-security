@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local archives
+*.zip
