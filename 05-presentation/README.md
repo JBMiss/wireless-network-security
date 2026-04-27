@@ -9,7 +9,7 @@ Synthesize the wireless security work from earlier deliverables into an executiv
 
 ## What I produced
 
-A PowerPoint presentation ([`Security_Configurations_for_Wireless_Network.pptx`](./Security_Configurations_for_Wireless_Network.pptx)) covering the security configurations recommended across the wireless deployment scenarios — design choices, encryption standards, threat exposures, and countermeasures.
+A PowerPoint presentation ([`Security_Configurations_Compressed.pptx`](./Security_Configurations_Compressed.pptx)) covering the security configurations recommended across the wireless deployment scenarios — design choices, encryption standards, threat exposures, and countermeasures.
 
 ## What this demonstrates
 
